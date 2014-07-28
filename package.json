@@ -1,0 +1,39 @@
+{
+  "name": "grunt-htmlformat",
+  "description": "A grunt plugin to format html files.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hellometers/grunt-htmlformat",
+  "author": {
+    "name": "laomu1988",
+    "email": "laomu1988@qq.com",
+    "url": "http://laomu1988.sinaapp.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hellometers/grunt-htmlformat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hellometers/grunt-sprite/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hellometers/grunt-sprite/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "htmlformat"
+  ],
+  "readmeFilename": "README.md",
+  "_id": "grunt-htmlformat@0.0.1",
+  "dist": {
+    "shasum": "8f1302ba8ee70ae75b25a116a2b8164b6d3ef9a1"
+  },
+  "_from": "grunt-sprite@",
+  "_resolved": "https://registry.npmjs.org/grunt-sprite/-/grunt-sprite-0.0.5.tgz"
+}
