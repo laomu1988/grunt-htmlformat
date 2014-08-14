@@ -1,6 +1,6 @@
 /*
- * grunt-adjust
- * https://github.com/laomu1988/grunt-adjust
+ * grunt-htmlformat
+ * https://github.com/laomu1988/grunt-htmlformat
  */
 
 'use strict';
@@ -13,6 +13,10 @@ module.exports = function(grunt) {
 
       htmlformat: {
           test: {
+            options:{
+                  tab:2,
+                  xhtml:false
+            },
               files: [
                   {
                       //启用动态扩展
